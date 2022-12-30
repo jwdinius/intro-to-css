@@ -1,0 +1,80 @@
+body {
+    background-color: #e4f9f5;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', serif;
+    font-size: 2em;
+}
+
+h1 {
+    color: #66BFBF; 
+    margin: 3rem auto 0 auto; /* need to use margin: when setting width:*/
+    font-family: 'Sacramento', serif;
+    font-size: 5.625rem;
+    line-height: 2;
+}
+
+h2 {
+    color: #66BFBF; 
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color:#11999E; 
+}
+
+a {
+    color:#11999E; 
+}
+
+hr {
+    color:#11999E; 
+}
+
+.top-container {
+    margin: 5.5rem auto 5.5rem;
+    position: relative;
+}
+
+.profile-pic {
+    height: 12em;
+    width: 12em;
+    border-radius: 30%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20rem;
+    top: 3rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20rem;
+    bottom: 20rem;
+}
+
+.middle-container {
+    margin: 5.5rem auto 5.5rem;
+    position: relative;
+}
+
+.climber-img {
+    margin: 3rem 2rem 3rem;
+    height: 12em;
+    width: 12em;
+    border-radius: 30%;
+}
+
+.programming-img {
+    margin: 3rem 2rem 3rem;
+    height: 6em;
+    width: 6em;
+    border-radius: 100%;
+}
+
+.bottom-container {
+    position: relative;
+}
