@@ -2,14 +2,14 @@ body {
     background-color: #e4f9f5;
     margin: 0px;
     text-align: center;
-    font-family: 'Montserrat', serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 2em;
 }
 
 h1 {
     color: #66BFBF; 
     margin: 3rem auto 0 auto; /* need to use margin: when setting width:*/
-    font-family: 'Sacramento', serif;
+    font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
     line-height: 2;
 }
